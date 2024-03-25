@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "matrix_manipulation.h": "c",
+        "soc_settings.h": "c"
+    }
+}
